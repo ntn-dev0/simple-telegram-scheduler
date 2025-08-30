@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TgScheduler": {
+      "commandName": "Project",
+      "commandLineArgs": "--chat \"Golf Team\" --text \"Тест тут і зараз\""
+    }
+  }
+}
